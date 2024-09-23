@@ -1,1 +1,1 @@
-# [Ну короче да](https://pixel-developer-team.github.io/pixel.github.io/)
+# [Ну короче да](https://pixel-developer-team.github.io/yoro-web/)
